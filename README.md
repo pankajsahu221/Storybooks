@@ -1,4 +1,4 @@
-## Storybook app built using Node.js Express hbs.
+## Storybook app built using Node.js, Express, hbs, MongoDb for database.
 
 - User can login with their Google account.
 - User can add public or private stories.
